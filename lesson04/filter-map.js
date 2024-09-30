@@ -1,8 +1,3 @@
-
-
-
-
-
 function filter(a, predicate) {
     let ret = []
     for (let index = 0; index < array.length; index++) {

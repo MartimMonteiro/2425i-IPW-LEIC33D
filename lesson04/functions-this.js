@@ -96,5 +96,7 @@ console.log(saTimes(2,3))
 
 
 // change console.console.log(
+const currentTime = new Date()
+const oldCOnsoleLog = console.log
 
 console.log("SLB", {a: 1}, 123)  //  => [2024-09-23T17:26:01.032Z]: SLB { a: 1 } 123
